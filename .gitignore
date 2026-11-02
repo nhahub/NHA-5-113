@@ -1,0 +1,12 @@
+#Large raw dataset
+nyc_ems_2023_2026.csv
+#Parquet file - last cell in Api_Fetching Generates
+nyc_ems_2023_2026.parquet
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
